@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Claire Chen"
+  text: "new site!"
+  tagline: "6.1040 creation"
   actions:
     - theme: brand
       text: Template Repository
