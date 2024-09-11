@@ -24,6 +24,7 @@ Jesse is in his 20s and lived in US suburbia up until college. He recently gradu
 ### Selection Reasoning
 I chose Jesse somewhat as a "control" to get a gauge of how a working individual who has had access to social media their entire feels about social media. I plan to ask him questions about how his view on and perception of social media is currently and how it has changed throughout the years. I chose Yemei as my interviewee who will represent the potential target demographic of elderly individuals who use social media. I hope to use this interview as an opportunity to understand her perspective and identify potential core differences between the younger and older generations of social media users. Throughout the interview, I hope to be able to better understand the social media needs of the elderly in contrast to the younger generations, as well as pinpoint some key opportunities of an app design that could in some way satisfy these needs.
 
+##
 # 2. INTERVIEW REPORTS
 ## 2.0 Interviews
 
