@@ -10,18 +10,20 @@ Can a singular social media app truly serve the wants and needs of all different
 ## 1.2 Who to interview?
 Social media is said to have started with inventions in the mid-1990s, meaning several generations of individuals in today's world lived more than half their life without using social media in their day to day lives. I would like to interview two individuals from different generations who have been exposed to social media in very different stages of their life. I have created two categories to choose my two interviewees from:
 
-(1) "Pre social media". Introduced to social media after their childhood, well into their working years, and potentially after retirement. 
+### 1.2.1 "Pre social media". 
+Introduced to social media after their childhood, well into their working years, and potentially after retirement. 
 
-(2) "Post social media". Born with social media already existing. Have not experienced life without the existence of social media platforms.
+### 1.2.2 "Post social media". 
+Born with social media already existing. Have not experienced life without the existence of social media platforms.
 
-## Interviewee Selection:
-### YEMEI - "Pre social media"
+## 1.3 Interviewee Selection:
+### 1.3.1 YEMEI - "Pre social media"
 YEMEI is in her 80s, and lived most of her life in southern China. She lived in a farming village until her 30s, and moved into the city of Guangzhou for the next 20 years of her life. She has now relocated to the United States to live closer to her children.
 
-### JESSE - "Post social media"
+### 1.3.2 JESSE - "Post social media"
 Jesse is in his 20s and lived in US suburbia up until college. He recently graduated from university and is working as a Software Engineer in New York City. He is a heavy user of many social media apps with multiple accounts on some. 
 
-### Selection Reasoning
+### 1.3.3 Selection Reasoning
 I chose Jesse somewhat as a "control" to get a gauge of how a working individual who has had access to social media their entire feels about social media. I plan to ask him questions about how his view on and perception of social media is currently and how it has changed throughout the years. I chose Yemei as my interviewee who will represent the potential target demographic of elderly individuals who use social media. I hope to use this interview as an opportunity to understand her perspective and identify potential core differences between the younger and older generations of social media users. Throughout the interview, I hope to be able to better understand the social media needs of the elderly in contrast to the younger generations, as well as pinpoint some key opportunities of an app design that could in some way satisfy these needs.
 
 ##
@@ -58,7 +60,7 @@ Jesse has utilized many types of social media for different purposes growing up 
 It was an "aha" moment in forming some of my design direction when he said that he uses his preferred social media, Instagram, and many others, "out of want. I think if it came down to it, I would be happy using just iMessage to text and make plans to hang out in person and maybe Instagram sometimes for niche content." This comment made me realize that in all honesty a lot of features that social media provides are somewhat supplemental to all individuals' lives. At the core, many individuals find a lot of appreciation a relatively simple app that can allow them to stay connected and communicate with their close friends and family. Over the years, Jesse's reasons for using social media have shifted from having a means of chatting and socializing to feeling the need to be updated on what acquaintances, friends, and influencers are up to, to ultimately spending more time delving into content that genuinely interests him. He states that this preference shift comes from the desire to "focus more on interacting with his closer circle of family and friends and prioritize the time he spends consuming meaningful content." He confirmed my inkling that many people social media out of want over need. Thus, social media savvy individuals could ultimately find themselves somewhat overloaded with an unnecessary amount of social media usage. 
 
 
-## Interview Conclusions -> Design Opportunities
+## 2.3 Interview Conclusions -> Design Opportunities
 Different generations of individuals who use some form of social media seem to have a tangible difference in their ability and capacity to use social media. Many younger individuals find themselves to have much more capacity to use and learn more social media apps that they find interesting, whereas it is more difficult for the older generations. Elders also seem to find themselves using social media as a way of (1) staying connected with family and friends (2) learning new information about society. Yet sometimes, they can find features of existing apps somewhat unnecessary or difficult to navigate through. Increased overstimulation and inability to distinguish between truth and fabrication are also more prominent in elders than in the younger generation. Since the younger generation is able to catch on to new social media faster, it could benefit everyone if the elders could have a social media app that they can feel comfortable with. This app can be designed to feel accessible to the elderly which helps them stay socially connected and intellectually stimulated.
 
 ##
