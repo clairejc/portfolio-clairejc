@@ -10,10 +10,10 @@ Can a singular social media app truly serve the wants and needs of all different
 ## 1.2 Who to interview?
 Social media is said to have started with inventions in the mid-1990s, meaning several generations of individuals in today's world lived more than half their life without using social media in their day to day lives. I would like to interview two individuals from different generations who have been exposed to social media in very different stages of their life. I have created two categories to choose my two interviewees from:
 
-### 1.2.1 "Pre social media". 
+### 1.2.1 "Pre social media" 
 Introduced to social media after their childhood, well into their working years, and potentially after retirement. 
 
-### 1.2.2 "Post social media". 
+### 1.2.2 "Post social media"
 Born with social media already existing. Have not experienced life without the existence of social media platforms.
 
 ## 1.3 Interviewee Selection:

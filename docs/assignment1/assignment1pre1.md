@@ -1,5 +1,5 @@
 ---
-title: Yemei Interview Questions for "Pre social media" Individual
+title: Yemei Pre-Interview Questions for "Pre social media" Individual
 layout: doc
 ---
 #### Starter questions
