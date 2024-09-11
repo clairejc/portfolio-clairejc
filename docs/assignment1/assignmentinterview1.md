@@ -2,7 +2,8 @@
 title: Yemei Interview Notes
 layout: doc
 ---
-# Starter questions
+# Yemei Interview Notes
+## Starter questions
 1. How many types of social media apps would you say you use currently? Which ones?
     - 1, WeChat
     - Follow-up: Why do you only use one social media app?
@@ -21,7 +22,7 @@ layout: doc
     - Started using email at first and then began using WeChat.
 
 
-# Intentions in Social Media Use:
+## Intentions in Social Media Use:
 5. What is/are your main reason(s) for using social media?
     - Because can be connected with family and friends to communicate
     - Can also see some news items and updates about society
@@ -42,7 +43,7 @@ layout: doc
     - Follow-up: Do you currently use social media out of want or need? 
         - Around 60% need.
     
-# Comfortability with Social Media Platforms:
+## Comfortability with Social Media Platforms:
 8. Was it difficult for you learn how to use new social media apps?
     - Sometimes yes, video calling on WeChat is pretty doable now that she's been using it for years. 
     - Sometimes some features are a bit too complex 
@@ -71,7 +72,7 @@ layout: doc
     - Simple yet descriptive explanations for features in preferred languages such as Chinese. 
     - Simple and minimalistic features that aren't too overwhelming. 
 
-# Outcomes of Social Media Usage 
+## Outcomes of Social Media Usage 
 15. What percentage of the friends you've made in your life would you say have a connection with on social media? 
     - Around 30%
     - Follow-up: Why aren't you connected with the remaining percentage of individuals?

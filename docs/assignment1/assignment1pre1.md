@@ -2,14 +2,15 @@
 title: Yemei Pre-Interview Questions for "Pre social media" Individual
 layout: doc
 ---
-#### Starter questions
+# Yemei Pre-Interview Questions for "Pre social media" Individual
+## Starter questions
 1. How many types of social media apps would you say you use? Which ones?
 
 2. What is your preferred social media network and why?
 
 3. What prompted you to start using social media for the first time? When was it?
 
-#### Intentions in Social Media Use:
+## Intentions in Social Media Use:
 4. What is/are your main reason(s) for using social media?
 
 5. Who do you usually have as connections on social media?
@@ -19,7 +20,7 @@ layout: doc
 
 7. Do you usually use social media out of want or need? 
 
-#### Comfortability with Social Media Platforms:
+## Comfortability with Social Media Platforms:
 8. Was it difficult for you learn how to use new social media apps?
 
 9. Have you ever faced any challenges when trying to navigate social media apps?
@@ -33,7 +34,7 @@ layout: doc
 
 13. What additional functionalities would your ideal app contain?
 
-#### Outcomes of Social Media Usage 
+## Outcomes of Social Media Usage 
 14. What percentage of the friends you've made in your life would you say have a connection with on social media? 
     - Follow-up: Why aren't you connected with the remaining percentage of individuals?
 

@@ -2,8 +2,8 @@
 title: Jesse Interview Notes
 layout: doc
 ---
-
-# Starter questions
+# Jesse Interview Notes
+## Starter questions
 1. How many types of social media apps would you say you use? Which ones?
     - 10, Instagram, Youtube, Reddit, Threads, Snapchat, Facebook, Messenger, Spotify, Venmo, Signal, Hangouts
 
@@ -13,7 +13,7 @@ layout: doc
 3. What prompted you to start using social media for the first time? When was it?
     - I started using Google Hangouts to chat with friends after school. This was around elementary school.
 
-# Intentions in Social Media Use:
+## Intentions in Social Media Use:
 4. What is/are your main reason(s) for using social media?
     - Learn about new things (people/communities he's interested in)
     - See what other people are up to to feel connected/get to know what's going on in people's lives
@@ -41,7 +41,7 @@ layout: doc
     - Usually use social media out of want in terms of Instagram. 
     - Use specific messaging apps for texting/communicating with friends but otherwise most social media apps are used out of want.
 
-# Comfortability with Social Media Platforms:
+## Comfortability with Social Media Platforms:
 8. Was it difficult for you learn how to use new social media apps?
     - Not really, he feels it could be because he played a lot of games growing up and has to adapt anyways
         - Social media actually has a lot less features to learn/less overstimulating than gmaes.
@@ -55,7 +55,7 @@ layout: doc
     - Follow-up: Why don't you use them?
         - He doesn't want to use instagram shop becasue he doesn't want his activity and preferences to be tracked, so they won't tailor more stuff to him that will make him spend more money
 
-# Outcomes of Social Media Usage 
+## Outcomes of Social Media Usage 
 11. What percentage of the friends you've made in your life would you say have a connection with on social media? 
     - 80%, it's normal now to just add people. People just exchange upon meeting
     - Follow-up: Why aren't you connected with the remaining percentage of individuals?
