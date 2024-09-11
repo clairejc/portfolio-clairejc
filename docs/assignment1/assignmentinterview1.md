@@ -63,7 +63,7 @@ layout: doc
 12. Is there anything that you would want to add to your preferred app?
     - Nothing much, maybe more descriptions of in-app functions. 
 
-13. Have you found interest in using other apps such as Instagram, Xiao Hong Shu,Snapchat, Facebook? If no/yes why?
+13. Added: Have you found interest in using other apps such as Instagram, Xiao Hong Shu, Snapchat, Facebook? If no/yes why?
     - Not really, I've seen the younger people use it and it seems like a bit much. 
     - I also don't really find the need to because I don't need many of the features of those apps.
 
