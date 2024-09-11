@@ -14,9 +14,9 @@ Social media is said to have started with inventions in the mid-1990s, meaning s
 
 (2) "Post social media". Born with social media already existing. Have not experienced life without the existence of social media platforms.
 
-[Interview Questions for "Pre social media" Individual](/Users/clairechen/6.1040/portfolio-clairejc/docs/assignments/preinterview/interviewee1.md)
+[Interview Questions for "Pre social media" Individual](../portfolio-clairejc/docs/assignments/preinterview/interviewee1.md)
 
-[Interview Questions for "Post social media" Individual](/Users/clairechen/6.1040/portfolio-clairejc/docs/assignments/preinterview/interviewee2.md)
+[Interview Questions for "Post social media" Individual](../portfolio-clairejc/docs/assignments/preinterview/interviewee2.md)
 
 ## Interviewee Selection:
 ### YEMEI - "Pre social media"
@@ -32,7 +32,7 @@ I chose Jesse somewhat as a "control" to get a gauge of how a working individual
 # 2. INTERVIEW REPORTS
 ## 2.1 Pre social media: Yemei
 
-[Interview Notes for "Pre social media" Individual](/Users/clairechen/6.1040/portfolio-clairejc/docs/assignments/interview/interviewee1.md)
+[Interview Notes for "Pre social media" Individual](../portfolio-clairejc/docs/assignments/interview/interviewee1.md)
 
 ### Yemei Interview Report
 
@@ -47,7 +47,7 @@ Upon initial conversation, Yemei disclosed that she only uses one social media a
 ## 2.2 Post social media: Jesse
 
 
-[Interview Notes for "Post social media" Individual](/Users/clairechen/6.1040/portfolio-clairejc/docs/assignments/interview/interviewee2.md)
+[Interview Notes for "Post social media" Individual](../portfolio-clairejc/docs/assignments/interview/interviewee2.md)
 
 
 
