@@ -35,7 +35,7 @@ Bumble BFF feature with pages with clean and simple pages containing daily match
 
 ## Facebook Dating opt-in
 Facebook App contains a tab for Facebook Dating that starts off with an 'opt in' feature that users can select to kickstart the feature. This can be an option for the friendship hub, organization activity joining, as well as news!
-<!-- ![](facebook1.png){:width='180'} -->
+![](fb.png){:width='180'}
 
 ## Tinder identification 
 Tinder requires government ID to be included in order for profile to be verified/created. This step can be required at the beginning of the app registration to differentiate elder users with other users.
@@ -59,8 +59,7 @@ Tateeda an aged care app includes clear sentences and easy to understand and obv
 ## Wechat chat features
 Wechat chatting/chat creation features are easy to understand and perform. Having all offered features on a singular dropdown is helpful to prevent getting lost in nooks and crannies of an app. 
 ![](wc.png){:width='200'} 
-![](wechat1.png){:width='200'} 
-![](wechat2.jpg){:width='200'}
+![](wc2.png){:width='200'}
 
 ##
 # 3. FEATURES
