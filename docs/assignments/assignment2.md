@@ -58,6 +58,7 @@ Tateeda an aged care app includes clear sentences and easy to understand and obv
 
 ## Wechat chat features
 Wechat chatting/chat creation features are easy to understand and perform. Having all offered features on a singular dropdown is helpful to prevent getting lost in nooks and crannies of an app. 
+![](wc.png){:width='200'} 
 ![](wechat1.png){:width='200'} 
 ![](wechat2.jpg){:width='200'}
 
