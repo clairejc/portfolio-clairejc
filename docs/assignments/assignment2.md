@@ -6,21 +6,20 @@ layout: doc
 
 ## APP NAME: TimelessTalk
 
-Timeless: Representing that the main drive for this app creation is to prioritize the needs of the elderly in a social app. 
+Timeless: Timeless conveys that the main drive of this app creation is to prioritize the needs of the elderly in a social app.
 
-Talk: 
-The talk aspect encompasses the app's coverage of chatting, news, and friend-making features.
+Talk: The talk aspect encompasses the app's coverage of chatting, news, and friend-making features.
 
 ## AUDIENCE
 
-1. Elders: 
-Elders will be able to use this social media app as an accessible "one stop shop" for their socializing and information gathering needs.
+### 1. Elders: 
+Elders will be able to use this social media app as an accessible "one-stop shop" for their socializing and information-gathering needs.
 
-2. Elders' close circle:
-Family, friends, neighbors, and other elders can sign up for an account on the app to communicate and interact. 
+### 2. Elders' close circle: 
+Family, friends, neighbors and other elders can sign up for an account on the app to communicate and interact.
 
-3. Organizations
-Groups that organize activites or provide services for elders in different niches.
+### 3. Organizations:
+Groups that organize activities or provide services for elders in different niches.
 
 
 ## USER VALUE 
@@ -155,7 +154,7 @@ It could be helpful to include a reset settings button/retake questionaire for t
 ## User requesting additional instruction for adjusting settings
 ![](instructionsrequest.png){:width='1000'}
 
-Future decisions:
+### Future decisions:
 1. Other settings to include.
 2. Format of return to homepage button/function.
 3. Incorporate instructions in a noncluttered way.
@@ -164,7 +163,7 @@ Future decisions:
 ## Finding friends on Friendship Hub
 ![](friendshipfinding.png){:width='1000'}
 
-Future decisions:
+### Future decisions:
 1. Refine how friendship profiles are formatted and displayed.
 2. Refine request message writing and decide whether to solely write a message or respond to a certain part of profile.
 
