@@ -82,7 +82,7 @@ org_email: Org -> one String
 
 org_password: Org -> one String
 
-org_id: Org -> one org_ID
+org_id: Org -> one org_ID 
 
 
 ## Profile 
