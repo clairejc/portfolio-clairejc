@@ -1,5 +1,5 @@
 ---
-title: A4 Backend Design
+title: A4 Backend Design Beta
 layout: doc
 ---
 
@@ -135,10 +135,11 @@ color: one Integer
 
 ## IMPLEMENTED CONCEPTS:
 
-#### Profile and EventHosting
+#### Authenticating, Profiling, EventHosting, Friendship, FriendRequest, FriendshipMessage, FriendshipProfile, Sessioning, Setting
 
 ## DEPLOYMENT:
 Vercel Deployment: https://assignment4-xi-liard.vercel.app/
+
 Backend Code: https://github.com/clairejc/assignment4 
 
 ## DESIGN REFLECTION
