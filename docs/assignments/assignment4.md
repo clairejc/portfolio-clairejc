@@ -18,11 +18,13 @@ password: one String
 
 number (phone number): one Integer
 
-birthday: one String
+age: one Integer
 
 ### Concept: Profile [Authenticating.User]
 ### State:
-user: one User
+id: one ProfileID
+
+userid: one UserID
 
 username: one String
 
@@ -32,11 +34,19 @@ name: one String
 
 phone: one Integer
 
-birthday: one String
+age: one Integer
 
-location: one String
+city: one String
+
+state: one String
 
 language: one String
+
+signedup: one Array String
+
+waitlisted: one Array String
+
+filters: one Array String
 
 
 ### Concept: Instructions 
@@ -51,6 +61,8 @@ text: one String
 
 ### Concept: EventHosting [Authenticating.User]
 ### State:
+id: one EventID 
+
 organizer: one User
 
 title: one String
@@ -61,44 +73,52 @@ date: one Integer
 
 spots: one Integer
 
-tags: Array String
+signups: Array String
 
-signups: Array Users
+waitlists: Array String 
 
-waitlists: Array Users 
+tags: String
 
-### Concept: EventViewing [Authenticating.User, EventHosting.Event]
-### State:
-signedup: Array Events 
 
-waitlisted: Array Event 
-
-wordfilters: Array String
-
-organizerfilters: Array String
-
-### Concept: FriendshipHub [Authenticating.User]
+### Concept: Friendship [Authenticating.User]
 ### State:
 
-all_requests: Feed -> list FriendshipRequest
+user1: one UserID
 
-like_from: one User
+user2: one UserID
 
-like_to: one User
+### Concept: FriendshipRequest [Authenticating.User]
+### State:
 
-message_from: one User
+from: one UserID
 
-message_to: one User
+to: one UserID
+
+status: "pending" | "rejected" | "accepted"
 
 message: one String
 
-accept_from: one User
+### Concept: FriendshipMessage [Authenticating.User]
+### State:
 
-accept_to: one User
+from: one UserID
 
-reject_from: one User
+to: one UserID
 
-reject_to: one User
+content: one String
+
+### Concept: FriendProfile [Authenticating.User]
+### State:
+
+userid: one UserID
+
+bio: one String
+
+genderPronouns: one String
+
+interests: one Array String
+
+age: one Integer
 
 
 ### Concept: Settings [Authenticating.User]
@@ -119,7 +139,7 @@ text_read: one Boolean
 
 ## IMPLEMENTED CONCEPTS:
 
-#### Profile and EventHosting
+#### Authenticating, Profiling, EventHosting, Friending, Sessioning, Setting
 
 ## DEPLOYMENT:
 Vercel: https://assignment4-xi-liard.vercel.app/
