@@ -1,9 +1,9 @@
 ---
-title: Lec 13
+title: Lec 13 Blog Post
 layout: doc
 ---
 
-# Lecture 13
+# Lecture 13 Blog Post
 
 
 After Monday’s lecture, I spent some time reflecting on the various methodologies we discussed for evaluating user interface (UI) design, particularly heuristic evaluations and cognitive walkthroughs.
