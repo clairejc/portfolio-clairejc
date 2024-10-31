@@ -4,7 +4,7 @@ layout: doc
 ---
 
 # Lecture 15 Design That Matters
-I really enjoyed Lyle’s talk on Wednesday surrounding the conversation of creating a company that truly cares and a company that prioritizes all of their stakeholders. 
+I really enjoyed Lyel’s talk on Wednesday surrounding the conversation of creating a company that truly cares and a company that prioritizes all of their stakeholders. 
 
 To me, when the conversation of a company genuinely caring for all its stakeholders, I start to think of ethics. Oftentimes, when companies focus on fast growth, it’s easy to lose sight of their ethical values. Therefore, it’s really important that companies to commit to ethical practices that respect not just their main shareholders who hold the most power, but also employees, customers, and the broader community. This process proves difficult for many companies due to imbalances in power and wants, so it is continuously a push and pull situation.
 
