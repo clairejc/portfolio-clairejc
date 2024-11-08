@@ -133,7 +133,7 @@ __Outcome Measurement:__
 
 
 
-We could measure the amount of food (in lbs or pure quantity) that is being repurposed over time (and thus being saved from disposal) to prove that our application is a good solution to food waste . For food insecurity, we could measure how many users receive new food. While it is difficult to measure the direct impacts on climate change, we may be able to estimate the reduced food waste and thus average carbon emissions reductions based on pure numbers of how many donation transactions were received.
+We could measure the amount of food (in lbs or pure quantity) that is being repurposed over time (and thus being saved from disposal) to prove that our application is a good solution to food waste. For food insecurity, we could measure how many users receive new food. While it is difficult to measure the direct impacts on climate change, we may be able to estimate the reduced food waste and thus average carbon emissions reductions based on pure numbers of how many donation transactions were received.
 
 
 
